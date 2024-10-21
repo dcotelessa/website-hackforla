@@ -19,24 +19,18 @@ leadership:
       slack: https://hackforla.slack.com/team/U06REBB5K4M
       github: https://github.com/kellyc9
     picture: https://avatars.githubusercontent.com/kellyc9
-  - name: Roslyn Wythe
-    role: Dev Lead
-    links:
-      slack: 'https://hackforla.slack.com/team/U046PD8UT55'
-      github: 'https://github.com/roslynwythe'
-    picture: https://avatars.githubusercontent.com/roslynwythe
   - name: Will Gillis
-    role: Merge Team
+    role: Developer Co-Lead
     links:
       slack: 'https://hackforla.slack.com/team/U043LGHSZFT'
       github: 'https://github.com/t-will-gillis'
     picture: https://avatars.githubusercontent.com/t-will-gillis
-  - name: Drake Nguyen
-    role: Merge Team
+  - name: Roslyn Wythe
+    role: Developer Co-Lead
     links:
-      slack: https://hackforla.slack.com/team/U04TSESVB4J
-      github: https://github.com/drakenguyen4000
-    picture: https://avatars.githubusercontent.com/drakenguyen4000
+      slack: 'https://hackforla.slack.com/team/U046PD8UT55'
+      github: 'https://github.com/roslynwythe'
+    picture: https://avatars.githubusercontent.com/roslynwythe
   - name: Ren Demeis-Ortiz
     role: Merge Team
     links:
@@ -71,6 +65,20 @@ leadership:
       slack: 'https://hackforla.slack.com/team/U06HC3A0DM0'
       github: 'https://github.com/gaylem'
     picture: https://avatars.githubusercontent.com/gaylem
+  - name: Mario Antonini
+    github-handle: 
+    role: Merge Team
+    links:
+      slack: 'https://hackforla.slack.com/team/U06MTPZ67V3'
+      github: 'https://github.com/marioantonini'
+    picture: https://avatars.githubusercontent.com/marioantonini
+  - name: Danielle Hanson Aras
+    github-handle: 
+    role: Merge Team
+    links:
+      slack: 'https://hackforla.slack.com/team/U076DT96PUJ'
+      github: 'https://github.com/daras-cu'
+    picture: https://avatars.githubusercontent.com/daras-cu
 links:
   - name: Wiki
     url: 'https://github.com/hackforla/website/wiki'
